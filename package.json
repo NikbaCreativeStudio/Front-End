@@ -1,7 +1,7 @@
 {
-  "name": "cms-front-end",
+  "name": "front-end-core",
   "version": "1.0.0",
-  "description": "CMS Front End - GULP, SASS",
+  "description": "Base structure and tools for Front End - GULP, SASS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
