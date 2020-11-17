@@ -11,7 +11,7 @@ Base structure and tools for Front End - GULP, SASS
 
 You can clone current repository to your local machine:
 
-    git clone https://github.com/Nikba-Creative-Studio/Front-End.git
+    git clone https://github.com/NikbaCreativeStudio/Front-End
 
 ### Check last Versions
       ncu -u --packageFile package.json
